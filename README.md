@@ -15,7 +15,7 @@ Whether it's Van Gogh, The Scream, Anime, Cyberpunk, OR your own style image —
 - Download your masterpiece instantly 💾
 - Clean, futuristic **next-gen dark UI** (with Orbitron font & neon glowing buttons)
 
-> This is an AI demo project built with ❤️ to showcase real-world AI + product design skills.
+> This is an AI demo project built with passion to showcase real-world AI + product design skills.
 
 ---
 

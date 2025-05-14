@@ -13,7 +13,7 @@ Whether it's Van Gogh, The Scream, Anime, Cyberpunk, OR your own style image —
 - Choose from **preloaded famous paintings** 🎨 OR upload your own custom style image
 - Control **style intensity with a slider** 🎚️
 - Download your masterpiece instantly 💾
-- Clean, futuristic **next-gen dark UI** (with Orbitron font & neon glowing buttons)
+- Clean, futuristic **next-gen UI** (with Orbitron font & neon glowing buttons)
 
 > This is an AI demo project built with passion to showcase real-world AI + product design skills.
 

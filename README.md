@@ -74,7 +74,7 @@ Place these images in `/assets/` folder:
 
 | Content Image | Style Image | AI Artwork |
 |---------------|-------------|------------|
-| ![](assets/example1.jpg) | ![](assets/starry_night.jpg) | ![](assets/AI-Artwork.jpg) |
+| ![](assets/example1.jpg) | ![](assets/starry_night.jpg) | ![](assets/AI_Artwork.png) |
 
 ---
 

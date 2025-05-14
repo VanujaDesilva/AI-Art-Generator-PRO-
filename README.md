@@ -1,6 +1,6 @@
 
 
-# 🚀 AI Art Generator ULTRA PRO™
+# 🚀 AI Art Generator PRO™
 
 The Ultimate Universal AI Style Transfer Studio™ 🎨  
 Create stunning, next-gen AI artworks from any photo + any style image!  
@@ -31,7 +31,7 @@ Whether it's Van Gogh, The Scream, Anime, Cyberpunk, OR your own style image —
 
 ### 1️⃣ Clone this repo
 ```
-git clone https://github.com/VanujaDesilva/AI_Art_Generator_ULTRA_PRO.git
+git clone https://github.com/VanujaDesilva/AI-Art-Generator-PRO-.git
 cd AI_Art_Generator_ULTRA_PRO
 ```
 
@@ -101,6 +101,6 @@ MIT License
 Built by [Vanuja De Silva](https://github.com/VanujaDesilva) with ❤️  
 > “Stay LITT, Stay Futuristic” 😎🚀
 
-# AI-Art-Generator-ULTRA-PRO-
-" AI Art Generator ULTRA PRO™ " The Ultimate Universal AI Style Transfer Studio. Upload any photo + choose any style (or upload your own!) to create next-gen AI artwork instantly. Built with Python, TensorFlow &amp; Streamlit.
+# AI-Art-Generator-PRO-
+" AI Art Generator PRO™ " The Ultimate Universal AI Style Transfer Studio. Upload any photo + choose any style (or upload your own!) to create next-gen AI artwork instantly. Built with Python, TensorFlow &amp; Streamlit.
 

@@ -98,7 +98,7 @@ MIT License
 ---
 
 ## 👤 Author
-Built by [Your Name](https://github.com/VanujaDesilva) with ❤️  
+Built by [Vanuja De Silva](https://github.com/VanujaDesilva) with ❤️  
 > “Stay LITT, Stay Futuristic” 😎🚀
 
 # AI-Art-Generator-ULTRA-PRO-

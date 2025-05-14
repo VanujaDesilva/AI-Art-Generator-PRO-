@@ -31,7 +31,7 @@ Whether it's Van Gogh, The Scream, Anime, Cyberpunk, OR your own style image —
 
 ### 1️⃣ Clone this repo
 ```
-git clone https://github.com/yourusername/AI_Art_Generator_ULTRA_PRO.git
+git clone https://github.com/VanujaDesilva/AI_Art_Generator_ULTRA_PRO.git
 cd AI_Art_Generator_ULTRA_PRO
 ```
 
@@ -98,7 +98,7 @@ MIT License
 ---
 
 ## 👤 Author
-Built by [Your Name](https://github.com/yourusername) with ❤️  
+Built by [Your Name](https://github.com/VanujaDesilva) with ❤️  
 > “Stay LITT, Stay Futuristic” 😎🚀
 
 # AI-Art-Generator-ULTRA-PRO-
